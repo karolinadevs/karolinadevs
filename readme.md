@@ -1,9 +1,9 @@
-# about:
+# ✏️ about:
 
 ```diff
-@@ olá, sou a anna mas podem me chamar de na. @@
+@@ I'm Anna Karolina, but you can call me Na! @@
 
-# são paulo.
-# 22 anos.
-# estudante de análise e desenvolvimento de sistemas pela faculdade de tecnologia de são paulo.
-# interessada em aprender mais linguagens, dados e etc...
++ Based in São Paulo, Brazil.
+- 22 years old.
+! Studying Systems Analysis & Development at Fatec SP.
+# Interested in new languages, data, and how things work.
